@@ -1,0 +1,136 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+header>img{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+
+nav{
+	height: 70px;
+	background-color: #e9e7f4;
+}
+#logo{
+	width: auto;
+	height: 70px;
+
+}
+nav a{
+	color: black;
+	text-decoration: none;  
+	font-size: 20px;
+    padding-top: 1%;
+    margin-right: 3%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+
+}
+
+
+
+main{
+    padding-top: 4%;
+    padding-bottom: 3%;
+
+}
+#dir{
+    text-align: center;
+}
+
+#info{
+       margin: 0 0;
+       border: 0px; 
+       width: 40%;
+       height: auto;
+       margin-left: 50px;
+       font-family: cursive;
+       font-size: 18px;
+}
+main>div>h1{
+    margin-bottom: 2%;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times, serif, 'Arial Narrow', Arial, sans-serif, Times, serif;
+}
+
+main>div>p{
+	width: 60%;
+    margin-bottom: 2%;
+    text-justify: auto;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Times, serif, 'Arial Narrow', Arial, sans-serif, Times, serif;
+}
+main>div>img{
+    width: 30%;
+    height: 20%;
+    float: right;
+}
+section label{
+    width: 100%;
+    float: left;
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-left: 20%;
+}   
+section input{
+    width: 60%;
+    float: left;
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid ;
+    margin-left: 20%;
+    margin-bottom: 10px;
+}
+section>form{
+    width: 100%;
+    margin: 0% auto;
+    padding: 0%;
+    margin-top: 23px ;
+    background-color: #B1B3B3;
+}
+section>form>fieldset{
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+body{
+    
+	background-image: url(../img/fondo.png);
+    background-attachment: fixed;
+}
+
+
+footer{
+	position: relative;
+	background-color: #e9e7f4;
+	
+
+}
+footer>img{
+	width: auto;
+	height: 65px;
+
+}
+
+footer>p{
+    width: auto;
+	text-align: center;
+    margin-top: 3%;
+	
+}
+
+
+
